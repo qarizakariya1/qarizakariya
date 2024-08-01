@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qariza Zakariya's Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Qariza Zakariya</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#blog">Blog</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="home">
+        <h2>Welcome to Qariza Zakariya's Website</h2>
+        <p>This is a simple static site created for Qariza Zakariya.</p>
+    </section>
+
+    <section id="about">
+        <h2>About</h2>
+        <p>Information about Qariza Zakariya.</p>
+    </section>
+
+    <section id="blog">
+        <h2>Blog</h2>
+        <p>Latest blog posts from Qariza Zakariya.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Contact information for Qariza Zakariya.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Qariza Zakariya</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
